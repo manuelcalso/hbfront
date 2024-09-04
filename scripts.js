@@ -1,4 +1,4 @@
-const apiUrl = 'https://hbserver-1cxh.onrender.com'; // Ajusta esto según la URL de tu servidor
+const apiUrl = 'https://hbserver-1cxh.onrender.com/api'; // Ajusta esto según la URL de tu servidor
 
 //crear contacto
 document.getElementById('add-contact-form').addEventListener('submit', async (event) => {
